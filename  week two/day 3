@@ -1,0 +1,9 @@
+Reflect
+1-
+2-I think I will be able to keep various languages straight much the same way most
+people do. I will use google, at least till I can tell them apart, as i gain experience.
+Review
+1-within the <p> tag, I would crate a color:light salmon; command.
+2-the difference between inline and internal styles is internal holds the style in the head
+of that file. inline uses the style tag, to style a specific tag.
+3-the following css styling gives the comic sans font with a chartruse background.
